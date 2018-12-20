@@ -1,0 +1,7 @@
+C:\Users\haruna\AppData\Roaming\Grasshopper\Libraries\Koala.dll
+C:\Users\haruna\AppData\Roaming\Grasshopper\Libraries\Koala.pdb
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\Koala\Koala\obj\Debug\Koala.Properties.Resources.resources
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\Koala\Koala\obj\Debug\Koala.csproj.GenerateResource.cache
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\Koala\Koala\obj\Debug\Koala.csproj.CoreCompileInputs.cache
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\Koala\Koala\obj\Debug\Koala.dll
+C:\Users\haruna\Documents\Visual Studio 2017\Projects\Koala\Koala\obj\Debug\Koala.pdb
